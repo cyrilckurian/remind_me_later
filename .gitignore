@@ -1,0 +1,5 @@
+reminders/__pycache__
+remind_me_later/__pycache__
+newenv
+.DS_Store
+db.sqlite3
